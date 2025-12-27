@@ -1,11 +1,20 @@
-TIC TAC TOE GAME:
+# Tic Tac Toe Game
 
-Very simple tic tac toe game made with Javascript. 
+A simple and interactive Tic Tac Toe game built with vanilla JavaScript.
 
-Run:
+## How to Play
 
-- Unzip the file
-- Copy the file-path of Index.html
-- Paste into any browser and play!
+### Installation & Setup:
 
-Note: needs two people to play game 
+1. **Unzip** the downloaded file
+2. **Copy** the file path of `index.html`
+3. **Paste** the path into any modern web browser
+4. **Start playing!**
+
+### Game Rules:
+
+- This is a **two-player** game
+- Player 1 uses **X**
+- Player 2 uses **O**
+- Players alternate turns clicking on empty cells
+- First to get three marks in a row (horizontal, vertical, or diagonal) wins
